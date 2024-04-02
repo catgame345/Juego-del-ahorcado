@@ -17,6 +17,7 @@ class Ahorcado
       ["celebrar", "Recordando momentos especiales"],
       ["continente", "Hay siete de estos"],
       ["exotico", "No es de por aqui..."],
+      ["programa", "Accion de mandar instrucciones a una maquina"],
     ]
   end
 
